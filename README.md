@@ -13,3 +13,4 @@ new change 2
 3. Лог файлы названием crash.log и любые файлы начинающиеся с crash. и расширением .log
 4. Файлы override.tf и override.tf.json, так же любые файлы заканчивающиеся на _override.tf и _override.tf.json
 5. Скрытый файл .terraformrc и файл terraform.rc
+new line
