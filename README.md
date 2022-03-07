@@ -4,7 +4,8 @@
 LINE ONE
 LINE TWO
 new change 1
-new change 2 
+new change 2
+new change 3 
 --------------------------
 В файле расположденном в devops-netology/terraform по правилам .gitignore буду проигнорированны :
 
